@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "quicknews": "apps/quicknews",
+    "quicknews-e2e": "apps/quicknews-e2e"
+  }
+}
